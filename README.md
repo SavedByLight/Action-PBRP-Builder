@@ -1,4 +1,4 @@
-## Automated TWRP compilation based on Github Action
+## Automated PBRP compilation based on Github Action
 
 ## Advertising
 
@@ -34,7 +34,7 @@ All contributors
 | `COMMON_TREE_URL`    | Common tree address                               | https://github.com/TeamWin/android_device_asus_sm8250-common |
 | `COMMON_PATH`        | Common tree location                              | device/asus/sm8250-common                                    |
 | `DEVICE_NAME`        | Model name                                        | I003D                                                        |
-| `MAKEFILE_NAME`      | Makefile name                                     | twrp_I003D                                                   |
+| `MAKEFILE_NAME`      | Makefile name                                     | pb_I003D                                                   |
 | `BUILD_TARGET`       | Build Target Partition (boot/recovery/vendorboot) | recovery                                                     |
 
 -----
